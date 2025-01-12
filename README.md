@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://github-readme-stats.vercel.app/api?username=javiiie09&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true
+
 <!--
 **javiiie09/javiiie09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
