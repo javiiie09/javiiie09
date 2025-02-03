@@ -30,6 +30,7 @@ Hi! My name is Javier Sánchez, a computer engineering student and electronics n
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" />
+      <img src="https://logo.clearbit.com/youtube.com" />
    </p>
 
 ## Devices
